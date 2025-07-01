@@ -9,3 +9,4 @@ This repository contains my internship tasks related to Data Science.
 ## Screenshots
 ![Dashboard Screenshot](screenshot_name.png)# FUTURE_DS_01
 Internship task related to Data science 
+![Dashboard](screenshot.png)
